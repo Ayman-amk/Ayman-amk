@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
 <h1 align="center">Hi 👋, I'm Ayman Amokrane</h1>
 <h3 align="center">A passionate Full stack developer, Software Engineer & Business Intelligence student from Morocco</h3>
 
-<img alighn="center" alt="GIF" src="https://i.imgur.com/50NA7vr.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/aymanamkk" target="blank"><img src="https://img.shields.io/twitter/follow/aymanamkk?logo=twitter&style=for-the-badge" alt="aymanamkk" /></a> </p>
 
