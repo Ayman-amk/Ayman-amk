@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayman Amokrane</h1>
 <h3 align="center">A passionate Full stack developer, Software Engineer & Business Intelligence student from Morocco</h3>
 
+<img alighn="center" alt="GIF" src="https://i.imgur.com/50NA7vr.gif">
+
 <p align="left"> <a href="https://twitter.com/aymanamkk" target="blank"><img src="https://img.shields.io/twitter/follow/aymanamkk?logo=twitter&style=for-the-badge" alt="aymanamkk" /></a> </p>
 
 - 🔭 I’m currently working on **My own portfolio**
