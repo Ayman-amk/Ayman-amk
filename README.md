@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Ayman Amokrane</h1>
 <h3 align="center">A passionate Full stack developer, Software Engineer & Business Intelligence student from Morocco</h3>
@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Django, Flask**
 
-- 👨‍💻 All of my projects are available at ["Portfolio Coming Soon"]("Portfolio Coming Soon")
+- 👨‍💻 All of my projects are available at ("Portfolio Coming Soon")
 
-- 📝 I regularly write articles on ["Blog Link Coming Soon"]("Blog Link Coming Soon")
+- 📝 I regularly write articles on ("Blog Link Coming Soon")
 
-- 💬 Ask me about **Modern technologies in web**
+- 💬 Ask me about **Everything related with modern technologies in web**
 
 - 📫 How to reach me **Aymanamokrane@gmail.com**
 
-- 📄 Know about my experiences ["Resume Coming Soon"]("Resume Coming Soon")
+- 📄 Know about my experiences ("Resume Coming Soon")
 
 - ⚡ Fun fact **I think I'm Funny lol**
 
