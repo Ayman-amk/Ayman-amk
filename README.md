@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Ayman Amokrane</h1>
-<h3 align="center">A passionate Full stack developer, Software Engineer & Business Intelligence student from Morocco</h3>
+<h3 align="center">A passionate Full stack developer, Software Engineer and Business Intelligence student from Morocco</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on ("Blog Link Coming Soon")
 
-- 💬 Ask me about **Everything related with modern technologies in web**
+- 💬 Ask me about **Everything related to modern technologies on web**
 
 - 📫 How to reach me **Aymanamokrane@gmail.com**
 
