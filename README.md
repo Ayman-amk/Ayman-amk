@@ -29,5 +29,3 @@
 <a href="https://stackoverflow.com/users/ayman-amokrane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayman-amokrane" height="30" width="40" /></a>
 <a href="https://fb.com/aymane.amokrane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aymane.amokrane" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayman-amk&show_icons=true&locale=en&layout=compact" alt="ayman-amk" /></p>
