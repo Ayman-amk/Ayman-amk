@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Everything related to modern technologies on the web**
 
-- 📫 How to reach me **contact@aymanamk.com**
+- 📫 How to reach me **ayman@aymanamk.com**
 
 - 📄 Know about my experiences ("Resume Coming Soon")
 
