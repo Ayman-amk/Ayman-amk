@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at ("Portfolio Coming Soon")
 
-- 📝 I regularly write articles on ("Blog Link Coming Soon")
+- 📝 I regularly write articles on **https://www.aymanamk.com/**
 
 - 💬 Ask me about **Everything related to modern technologies on the web**
 
