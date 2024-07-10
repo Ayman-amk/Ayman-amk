@@ -7,17 +7,15 @@
 
 - 🔭 I’m currently working on **My own portfolio**
 
-- 🌱 I’m currently learning **Django, Flask**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at ("Portfolio Coming Soon")
-
-- 📝 I regularly write articles on **https://www.aymanamk.com/**
+- 👨‍💻 All of my projects are available at **https://www.aymanamk.com/**
 
 - 💬 Ask me about **Everything related to modern technologies on the web**
 
 - 📫 How to reach me **ayman@aymanamk.com**
 
-- 📄 Know about my experiences ("Resume Coming Soon")
+- 📄 Know about my experiences **https://www.aymanamk.com/**
 
 - ⚡ Fun fact **I think I'm Funny lol**
 
